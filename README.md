@@ -1,6 +1,12 @@
 # 💫 About Me:
 I am a 5th semester undergraduate student majoring in Information Systems at Bina Nusantara University. With a profound passion for learning and a relentless drive to embrace new challenges, I continually seek opportunities to broaden my horizons. My professional journey has encompassed valuable experience in the realm of Technology, where I honed my skills and developed a strong work ethic.
 
+Currently, I am a passionate in application development and web design with a strong academic track record. I possess expertise in various programming languages (HTML, CSS, JavaScript, ReactJS, PHP, Java) and Design Application (Figma, Adobe Illustrator, Photoshop, etc) resulting in engaging user experiences. Awards in various academic competitions reflect my commitment to excellence in education. I am ready to continue growing and creating creative solutions in the world of technology.
+
+I am enthusiastic about leveraging my academic background, combined with my real-world experience, to contribute meaningfully to the field of Development Technology and beyond. As I embark on this exciting journey, I look forward to connecting with like-minded professionals, sharing insights, and collaborating on projects that drive positive change.
+
+Feel free to reach me at: hisyamsyarif08@gmail.com / @designbyhisyam._ (Instagram)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hsymsyrif._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hisyamsyarif) 
