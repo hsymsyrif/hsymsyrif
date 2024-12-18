@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 5th semester undergraduate student majoring in Information Systems at Bina Nusantara University. With a profound passion for learning and a relentless drive to embrace new challenges, I continually seek opportunities to broaden my horizons. My professional journey has encompassed valuable experience in the realm of Technology, where I honed my skills and developed a strong work ethic.
+Final year undergraduate student majoring in Information Systems at Bina Nusantara University. With a profound passion for learning and a relentless drive to embrace new challenges, I continually seek opportunities to broaden my horizons. My professional journey has encompassed valuable experience in the realm of Technology, where I honed my skills and developed a strong work ethic.
 
 Currently, I am a passionate in application development and web design with a strong academic track record. I possess expertise in various programming languages (HTML, CSS, JavaScript, ReactJS, PHP, Java) and Design Application (Figma, Adobe Illustrator, Photoshop, etc) resulting in engaging user experiences. Awards in various academic competitions reflect my commitment to excellence in education. I am ready to continue growing and creating creative solutions in the world of technology.
 
